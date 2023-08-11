@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    gap: 0px;
+    font-family: 'Merriweather', serif;
+    font-size:large;
+    color: #7d74c2;
+    background-color:bisque;
+}
+
+h1,h3{
+    color: #120171;
+}
