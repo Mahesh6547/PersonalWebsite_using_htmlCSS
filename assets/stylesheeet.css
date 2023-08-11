@@ -181,17 +181,25 @@ footer>a{
     .H_image1{
         height: 100px;
         width: 60%;
+        margin-right: 0px;
     }
     .boy_img{
         padding-top: 100px;
         height: 120px;
-        margin-left: 50px;
+        margin-left: 25px;
+    }
+    .name{
+        font-size: 40px;
+    }
+    .H_h1{
+        font-size: 30px;
     }
     .H_Name{
         padding-top: 0px;
     }
     .H_image1_container {
         justify-content: center;
+        margin-right: 0px;
     }
     .H_text{
         line-height: 1.5;
