@@ -52,7 +52,7 @@ body{
     font-family: 'Merriweather', serif;
     text-align: center;
     background-color: #C3D6DA;
-    font-size:x-large;
+    font-size:x-larger;
     color: #130745;
 }
 
@@ -62,7 +62,7 @@ h2,h3{
     letter-spacing: 2px;
 }
 .profile_pic{
-    height: 400px;
+    height: 300px;
     border-radius: 25%;
     margin-top: 100px;
     border: #000000 solid 5px;
