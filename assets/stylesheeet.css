@@ -10,7 +10,7 @@ body{
 }
 
 .H_image1{
-    height: 300px;
+    height: 200px;
     border-radius: 20%;
     margin-right: 50px;
 }
@@ -18,12 +18,17 @@ body{
     grid-column: span 2 ;
     display: flex;
     justify-content: end;
+    margin-right: 50px;
 }
 
-
+.boy_img{
+    height: 350px;
+    margin-left: 100px;
+}
 
 .H_Name{
-    padding-top: 100px;
+    padding-top: 0px;
+    margin-top: 0px ;
 }
 
 .H_text{
